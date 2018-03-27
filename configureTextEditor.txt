@@ -1,1 +1,1 @@
-Text Editor
+Git Editor is added
